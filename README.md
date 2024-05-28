@@ -54,8 +54,7 @@ This will start the application at http://localhost:3000.
    /package.json
    /README.md
 
-
-
+```
 **Design and Development Process**
 
 The application is built using React and utilizes local storage for managing user data and reviews. The book data is fetched from the Google Books API.
@@ -72,3 +71,4 @@ Unique Methodologies
 *Author*
 
     Duisenbekov Bakdaulet - Book Review Platform
+
