@@ -25,31 +25,35 @@ Make sure you have Node.js and npm installed on your machine.
    cd book-review-platform
 
 2. Install the dependencies:
+    ```bash
     npm install
 
 3. Running the Application
     To start the development server, run:
-  npm start
+   ```bash
+     npm start
 
 This will start the application at http://localhost:3000.
 
 ## Project Structure
-/public
-  index.html
-/src
-  /components
-    BookDetails.js
-    Home.js
-    Search.js
-    Register.js
-    Login.js
-  App.js
-  index.css
-  index.js
-  api.js
-/firebase.js
-/package.json
-/README.md
+   ```bash
+   /public
+     index.html
+   /src
+     /components
+       BookDetails.js
+       Home.js
+       Search.js
+       Register.js
+       Login.js
+     App.js
+     index.css
+     index.js
+     api.js
+   /firebase.js
+   /package.json
+   /README.md
+
 
 
 **Design and Development Process**
